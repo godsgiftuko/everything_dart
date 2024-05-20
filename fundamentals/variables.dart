@@ -8,7 +8,7 @@ void main() {
   double amount = 15000.00;
   print('amount: ${amount}');
 
-  final gravity = 9.8;
+  const gravity = 9.8;
   print('gravity: ${gravity}');
 
   const speedOfLight = '3x10^';
