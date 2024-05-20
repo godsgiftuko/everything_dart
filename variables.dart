@@ -2,7 +2,7 @@ void main() {
   String name = 'Gift';
   print('name: ${name}');
 
-  int phone = 09071046909;
+  int phone = 07000000000;
   print('phone: ${phone}');
 
   double amount = 15000.00;
@@ -13,4 +13,7 @@ void main() {
 
   const speedOfLight = '3x10^';
   print('speedOfLight: ${speedOfLight}');
+
+  bool isFalse = false;
+  print('isFalse: ${isFalse}');
 }
